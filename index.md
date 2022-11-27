@@ -1,9 +1,30 @@
 # Memory Demon's List
 
-The is the Geometry Dash Demonslist but for only memory demons. So sightreadable levels such as Quantum Processing will not be included on this list.
+The is the Geometry Dash Demonslist but for only memory demons. So sightreadable levels will not be included on this list.
 ###### THIS LIST IS ONLY FOR RATED LEVELS, ANY LEVELS THAT ARE UNRATED WILL NOT BE INCLUDED!
 ## Mainlist
-1. Killbot by Lithifusion
+btw i dont know every memory level
+
+
+
+
+
+X. 
+X. Nhelv by SrGuillester
+X. Requiem by Zylenox
+X. RANDOM ACCESS MEMORY by Acute
+X. Sunset Sandstorm crohn44
+X. super probably level by alkali
+X. Killbot by Lithifusion
+
+mentions: (levels that are questionable if they are memory or not.)
+Quantum Theory by HeroZombie80
+Kuzureta by Teno
+Necromancer by TGI
+Wasureta by crazen
+Visible Ray by Krampux
+Kowareta by Shuri
+The Yandere by Dorami
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
