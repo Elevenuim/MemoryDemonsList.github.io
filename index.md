@@ -9,22 +9,22 @@ btw i dont know every memory level
 
 
 
-X. 
-X. Nhelv by SrGuillester
-X. Requiem by Zylenox
-X. RANDOM ACCESS MEMORY by Acute
-X. Sunset Sandstorm crohn44
-X. super probably level by alkali
-X. Killbot by Lithifusion
+1. Limbo by MindCap
+2. Nhelv by SrGuillester
+3. Requiem by Zylenox
+4. RANDOM ACCESS MEMORY by Acute
+5. Sunset Sandstorm crohn44
+6. super probably level by alkali
+7. Killbot by Lithifusion
 
 mentions: (levels that are questionable if they are memory or not.)
-Quantum Theory by HeroZombie80
-Kuzureta by Teno
-Necromancer by TGI
-Wasureta by crazen
-Visible Ray by Krampux
-Kowareta by Shuri
-The Yandere by Dorami
+- Quantum Theory by HeroZombie80
+- Kuzureta by Teno
+- Necromancer by TGI
+- Wasureta by crazen
+- Visible Ray by Krampux
+- Kowareta by Shuri
+- The Yandere by Dorami
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
